@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 I'm currently working as a Senior Developer at [CI&T](https://ciandt.com)<br>
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/henzogomes)
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/henzo)
 
 # 💻 Tech Stack:
 
